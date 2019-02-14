@@ -57,6 +57,10 @@ array (
         array (
           'file' => 'modules/Accounts/Account.js',
         ),
+        1 => 
+        array (
+          'file' => 'custom/modules/Accounts/Account.js',
+        ),
       ),
       'useTabs' => true,
       'tabDefs' => 
